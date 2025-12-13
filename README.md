@@ -3,7 +3,7 @@
 Create your own Windows service using **Mason Service Builder**
 This tool allows you to convert a regular executable into a **native Windows Service**, with full control over its **file format**, **icon**, and **assembly metadata**
 
-Developed by **ABOLHB** — *MasonGroup*.
+Developed by **ABOLHB** — *MasonGroup*
 
 ---
 
